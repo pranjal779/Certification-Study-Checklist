@@ -5,51 +5,44 @@
 
 | Topic | Reviewed | Revisit Post-Exam |
 |-------|----------|-------------------|
-| **Compute** |
+| <ins>**Compute**</ins> |
 | EC2 basics and pricing | [ ] | [ ] |
 | Auto Scaling & Launch Templates | [ ] | [ ] |
 | Elastic Load Balancer (ALB/NLB/GLB) | [ ] | [ ] |
 | AWS Lambda | [ ] | [ ] |
 | Elastic Beanstalk | [ ] | [ ] |
 | AWS Batch | [ ] | [ ] |
-
-| **Storage** |
+| <ins>**Storage**</ins> |
 | S3 & Storage Classes | [ ] | [ ] |
 | S3 Lifecycle, Versioning, Encryption | [ ] | [ ] |
 | EBS vs EFS vs FSx | [ ] | [ ] |
 | Storage Gateway vs DataSync | [ ] | [ ] |
-
-| **Databases** |
+| <ins>**Databases**</ins> |
 | RDS & Aurora (Multi-AZ, Read Replicas) | [ ] | [ ] |
 | DynamoDB basics & DAX | [ ] | [ ] |
 | ElastiCache (Redis vs Memcached) | [ ] | [ ] |
-
-| **Networking & Content Delivery** |
+| <ins>**Networking & Content Delivery**</ins> |
 | VPC Basics (Subnets, Route Tables) | [ ] | [ ] |
 | NAT Gateway vs NAT Instance | [ ] | [ ] |
 | VPC Peering vs Transit Gateway | [ ] | [ ] |
 | Direct Connect vs VPN | [ ] | [ ] |
 | Route 53 Policies | [ ] | [ ] |
 | CloudFront | [ ] | [ ] |
-
-| **Security** |
+| <ins>**Security**</ins> |
 | IAM Policies, Roles, Permissions | [ ] | [ ] |
 | KMS, SSM Parameter Store, Secrets Manager | [ ] | [ ] |
 | Security Groups vs NACL | [ ] | [ ] |
 | Shield, WAF, GuardDuty, Macie | [ ] | [ ] |
-
-| **Monitoring & Logging** |
+| <ins>**Monitoring & Logging**</ins> |
 | CloudWatch & Logs | [ ] | [ ] |
 | CloudTrail vs AWS Config | [ ] | [ ] |
 | Trusted Advisor | [ ] | [ ] |
-
-| **Application Integration** |
+| <ins>**Application Integration**</ins> |
 | SQS, SNS | [ ] | [ ] |
 | EventBridge vs CloudWatch Events | [ ] | [ ] |
 | Step Functions | [ ] | [ ] |
 | API Gateway (REST, HTTP, WebSocket) | [ ] | [ ] |
-
-| **Cost Optimization & Well-Architected** |
+| <ins>**Cost Optimization & Well-Architected**</ins> |
 | Pricing Models & Calculator | [ ] | [ ] |
 | AWS Budgets, Cost Explorer | [ ] | [ ] |
 | Well-Architected Pillars | [ ] | [ ] |
